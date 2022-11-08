@@ -6,3 +6,5 @@ extra data
 friday
 
 demo reset in test.txt
+
+remote changes
